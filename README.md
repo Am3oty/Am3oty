@@ -18,7 +18,7 @@
   <a href="www.linkedin.com/in/ismail-magdy-54b206232" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="http://discordapp.com/users/555870214789791795" target="_blank">
+  <a href="http://discordapp.com/users/555870214789791795">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="esmailelam3oty@gmail.com" target="_blank">
