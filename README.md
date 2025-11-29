@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzMyZnhlaXMwMGdncm5vdnZneWNseGhlbnVsb2hkc3dwdTEzMTlveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif"  />
+<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/mTPjPA6SSXgTsnZ1Dh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-funny-code-not-working-mTPjPA6SSXgTsnZ1Dh">via GIPHY</a></p>
 
 ###
 
